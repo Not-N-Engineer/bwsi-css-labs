@@ -14,7 +14,6 @@ def main():
     print("Hi! I'm Yujie and I'm a sophomore from Great Oak High School in Southern California.")
     print("Outside of any academic stuff, I like fencing, animation, and history.")
     print("My favorite subject outside of computer science is actually history!")
-    # extra change because idk why my username is showing up as asdfghjklzxcvbnmqwerty
 
     robot_speed = 5 # m/s
 
