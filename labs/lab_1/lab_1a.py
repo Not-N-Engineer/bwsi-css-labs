@@ -15,7 +15,7 @@ def main():
     print("Outside of any academic stuff, I like fencing, animation, and history.")
     print("My favorite subject outside of computer science is actually history!")
 
-    robot_speed = 5 # m/s
+    robot_speed = 8 # m/s
 
 if __name__ == "__main__":
     main()
